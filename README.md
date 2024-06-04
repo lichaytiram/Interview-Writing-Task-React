@@ -16,6 +16,6 @@ This document outlines the task of creating a React input component styled to re
 * This document serves as a starting point for your implementation. Feel free to modify it to fit your specific needs.
 * Ensure proper indentation and spacing are applied throughout your code for improved readability.
 * Conduct thorough testing of the input component to verify its functionality as expected.
-
+* For assistance or questions, please email lichay.tiram@poalim.co.il
 
 ### Complete the assigned task and push it to the repository within two days.
