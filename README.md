@@ -19,3 +19,5 @@ This document outlines the task of creating a React input component styled to re
 * For assistance or questions, please email lichay.tiram@poalim.co.il
 
 ### Complete the assigned task and push it to the repository within two days.
+
+#### Thank you!
