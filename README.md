@@ -5,8 +5,8 @@
 
 This document outlines the task of creating a React input component styled to resemble an Angular Material input, using only SCSS for styling and without relying on external libraries.
 
-![Empty imput]([./input.jpg])
-![Fill input]((../input.jpg))
+![Empty imput]([./input.png])
+![Fill input]((../input.png))
 
 **Guidelines:**
 
