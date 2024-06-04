@@ -1,5 +1,4 @@
-# Interview-Writing-Task-React
-
+# Interview Task
 ## React Task: Building an Angular Material-Styled Input
 
 **Objective:**
