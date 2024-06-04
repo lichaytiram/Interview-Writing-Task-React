@@ -5,6 +5,9 @@
 
 This document outlines the task of creating a React input component styled to resemble an Angular Material input, using only SCSS for styling and without relying on external libraries.
 
+![Empty imput]([path/to/your/image.jpg](https://github.com/lichaytiram/Interview-Writing-Task-React/blob/main/input.png))
+![Fill input]([path/to/your/image.jpg](https://github.com/lichaytiram/Interview-Writing-Task-React/blob/main/input%20fill.png))
+
 **Guidelines:**
 
 * **Design:** The input's visual style should be identical to the one presented in the official Angular Material documentation: [https://material.angular.io/components/input](https://material.angular.io/components/input)
